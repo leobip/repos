@@ -1,0 +1,12 @@
+/.vscode
+/Flask-AppOriginal
+/__pycache__
+/auditLogs.csv
+/bitbucket-automations
+/generic-packer
+/gsantandreu-training
+/lpelayo-trainnings
+/python-flask
+/stage.json
+/test.json
+/work
